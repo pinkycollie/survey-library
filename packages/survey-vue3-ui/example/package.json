@@ -11,7 +11,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
-    "showdown": "^1.6.4",
+    "showdown": "^2.1.0",
     "survey-core": "../../survey-core/build",
     "survey-vue3-ui": "../build",
     "surveyjs-widgets": "^1.9.40",
